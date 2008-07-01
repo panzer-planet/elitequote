@@ -24,9 +24,9 @@ a strike through denotes that the improvement has been completed
  # ~~Clear button added~~
  # ~~Added an icon for the program to use~~
  # ~~Added user friendliness including:~~
-	*~~Quote's can't be generated without first calculating~~
-	*Successful canceling when generating quotes
-	*~~Help and about menu~~
+	* ~~Quote's can't be generated without first calculating~~
+	* Successful canceling when generating quotes
+	* ~~Help and about menu~~
 
 ===In ELITE QUOTE 0.5===
 
