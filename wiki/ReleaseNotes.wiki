@@ -3,41 +3,41 @@ a strike through denotes that the improvement has been completed
 
 ===In ELITE QUOTE 0.2===
 
- #~~Now displays price including VAT~~
- #~~Now uses JTextFields for better functionality, look and feel.~~
- #~~Other sustainability and usability changes~~
+ # ~~Now displays price including VAT~~
+ # ~~Now uses JTextFields for better functionality, look and feel.~~
+ # ~~Other sustainability and usability changes~~
 
 
 ===In ELITE QUOTE 0.3===
 
- #~~Now writes a quote to HTML~~
- #~~some logical fixes~~
- #~~ROUNDS TOTALS TO 2 DECIMALS!!!~~
+ # ~~Now writes a quote to HTML~~
+ # ~~some logical fixes~~
+ # ~~ROUNDS TOTALS TO 2 DECIMALS!!!~~
 
 ===In ELITE QUOTE 0.4===
 
- #~~Further improvment to rounding of numbers~~
- #~~Further improvement of look and functionality of quote~~
- #Ability to enter custom company name and have it saved to file and loaded on program  start - scrapped till 0.5 (heavy mission)
- #Ability to enter custom mark up and VAT - scrapped till saving to file is possible
- #~~Make Quote button moved to menubar~~
- #~~Clear button added~~
- #~~Added an icon for the program to use~~
- #~~Added user friendliness including:~~
+ # ~~Further improvment to rounding of numbers~~
+ # ~~Further improvement of look and functionality of quote~~
+ # Ability to enter custom company name and have it saved to file and loaded on program   start - scrapped till 0.5 (heavy mission)
+ # Ability to enter custom mark up and VAT - scrapped till saving to file is possible
+ # ~~Make Quote button moved to menubar~~
+ # ~~Clear button added~~
+ # ~~Added an icon for the program to use~~
+ # ~~Added user friendliness including:~~
 	*~~Quote's can't be generated without first calculating~~
 	*Successful canceling when generating quotes
 	*~~Help and about menu~~
 
 ===In ELITE QUOTE 0.5===
 
- #Ability to read from data files to load saved information
- #Ability to e-mail quotes straight from the program
- #Ability to create printer friendly quote and to print
- #The Ability to extensively customize the quote
- #Ability to customize company profile
+ # Ability to read from data files to load saved information
+ # Ability to e-mail quotes straight from the program
+ # Ability to create printer friendly quote and to print
+ # The Ability to extensively customize the quote
+ # Ability to customize company profile
 
 ===In ELITE QUOTE RC1===
 
- #Cancel handling added. Clicking cancel wont mess up the program
- #Number of items can be customized, added and removed.
- #Anything else that can be a problem on release must be sorted.
+ # Cancel handling added. Clicking cancel wont mess up the program
+ # Number of items can be customized, added and removed.
+ # Anything else that can be a problem on release must be sorted.
