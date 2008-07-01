@@ -1,8 +1,4 @@
 #labels Features,Featured,Introduction
-#Introduction and brief feature overview.
-
-== Introduction ==
-
 Elite Quote can help you more efficiently deliver quotes to your customers. Although not yet ready for public use, it already offers basic use to anyone who knows how to modify the source to suite their company. In the future, Elite Quote aims to be a full quote creation system.
 
 
