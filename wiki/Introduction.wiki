@@ -1,12 +1,12 @@
-#labels Featured
+#labels Features,Featured,Introduction
 #Introduction and brief feature overview.
 
-= Introduction =
+== Introduction ==
 
 Elite Quote can help you more efficiently deliver quotes to your customers. Although not yet ready for public use, it already offers basic use to anyone who knows how to modify the source to suite their company. In the future, Elite Quote aims to be a full quote creation system.
 
 
-= Features =
+== Features ==
 
 The features that Elite Quote has to date:
   * *Calculate Faster* Calculate faster than using pencil, paper, calculator or asian teenager.
@@ -15,7 +15,7 @@ The features that Elite Quote has to date:
 
 == Upcoming Features ==
 
-* *Print Quotes* Print quotes in one touch.
-* *e-mail quotes* e-mail quotes straight to your client after entering valid smtp server details.
-* *Useful to anyone* Customize and store company profile and details
-* *Customize* Customize the number of fields required for your quotes.
+  * *Print Quotes* Print quotes in one touch.
+  * *e-mail quotes* e-mail quotes straight to your client after entering valid smtp server details.
+  * *Useful to anyone* Customize and store company profile and details
+  * *Customize* Customize the number of fields required for your quotes.
