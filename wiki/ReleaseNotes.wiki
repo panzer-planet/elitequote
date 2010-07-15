@@ -18,8 +18,8 @@ a strike through denotes that the improvement has been completed
 
  # ~~Further improvment to rounding of numbers~~
  # ~~Further improvement of look and functionality of quote~~
- # Ability to enter custom company name and have it saved to file and loaded on program   start - scrapped till 0.5 (heavy mission)
- # Ability to enter custom mark up and VAT - scrapped till saving to file is possible
+ # ~~Ability to enter custom company name and have it saved to file and loaded on program   start - scrapped till 0.5 (heavy mission)~~
+ # ~~Ability to enter custom mark up and VAT - scrapped till saving to file is possible~~
  # ~~Make Quote button moved to menubar~~
  # ~~Clear button added~~
  # ~~Added an icon for the program to use~~
@@ -30,11 +30,11 @@ a strike through denotes that the improvement has been completed
 
 ===In ELITE QUOTE 0.5===
 
- # Ability to read from data files to load saved information
+ # ~~Ability to read from data files to load saved information~~
  # Ability to e-mail quotes straight from the program
  # Ability to create printer friendly quote and to print
  # The Ability to extensively customize the quote
- # Ability to customize company profile
+ # ~~Ability to customize company profile~~
 
 ===In ELITE QUOTE RC1===
 
