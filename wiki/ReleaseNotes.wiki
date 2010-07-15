@@ -18,26 +18,42 @@ a strike through denotes that the improvement has been completed
 
  # ~~Further improvment to rounding of numbers~~
  # ~~Further improvement of look and functionality of quote~~
- # ~~Ability to enter custom company name and have it saved to file and loaded on program   start - scrapped till 0.5 (heavy mission)~~
- # ~~Ability to enter custom mark up and VAT - scrapped till saving to file is possible~~
+ # Ability to enter custom company name and have it saved to file and loaded on program   start - scrapped till 0.5 (heavy mission)
+ # Ability to enter custom mark up and VAT - scrapped till saving to file is possible
  # ~~Make Quote button moved to menubar~~
  # ~~Clear button added~~
  # ~~Added an icon for the program to use~~
  # ~~Added user friendliness including:~~
 	* ~~Quote's can't be generated without first calculating~~
-	* Successful canceling when generating quotes
+	* Successful canceling when generating quotes -scrapped till later version
 	* ~~Help and about menu~~
 
 ===In ELITE QUOTE 0.5===
 
- # ~~Ability to read from data files to load saved information~~
- # Ability to e-mail quotes straight from the program
- # Ability to create printer friendly quote and to print
- # The Ability to extensively customize the quote
- # ~~Ability to customize company profile~~
+There was also a 0.5a which fixed some important problem.
 
-===In ELITE QUOTE RC1===
+ # ~~Ability to enter custom company name and have it saved to file and loaded on program   start~~
+ # ~~Some bug fixes I cant remember now~~
+ # ~~Ability to enter custom mark up and VAT (not from file)~~
+ # Ability to read from data files to load saved information - further delayed
+ # Ability to e-mail quotes straight from the program - further delayed
+ # Ability to create printer friendly quote and to print - further delayed
+ # The Ability to extensively customize the quote - further delayed
+ # Ability to customize company profile - redundant and scrapped
 
+===In ELITE QUOTE 0.6===
+ # ~~Ability to read from data files to load saved information~~ (Finally Complete)
+ # ~~Selecting different CSS files for different quote styles~~
+ # ~~Changing heading of quote and other settings through options window~~
+
+===In ELITE QUOTE 0.6.1===
+
+ # ~~Clean up source code and spot problems and errors~~
+ # Fix problems and make code more readable and practical
  # Cancel handling added. Clicking cancel wont mess up the program
  # Number of items can be customized, added and removed.
- # Anything else that can be a problem on release must be sorted.
+
+===in ELITE QUOTE 0.7===
+
+ # Ability to e-mail quotes straight from the program
+ # Ability to create printer friendly quote
