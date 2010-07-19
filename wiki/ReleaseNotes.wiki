@@ -1,20 +1,20 @@
-#labels release,features
+#labels release,features,development
 a strike through denotes that the improvement has been completed
 
-===In ELITE QUOTE 0.2===
+===In ELITE QUOTE 0.2 (Released)=== 
 
  # ~~Now displays price including VAT~~
  # ~~Now uses JTextFields for better functionality, look and feel.~~
  # ~~Other sustainability and usability changes~~
 
 
-===In ELITE QUOTE 0.3===
+===In ELITE QUOTE 0.3 (Released)===
 
  # ~~Now writes a quote to HTML~~
  # ~~some logical fixes~~
  # ~~ROUNDS TOTALS TO 2 DECIMALS!!!~~
 
-===In ELITE QUOTE 0.4===
+===In ELITE QUOTE 0.4 (Released)===
 
  # ~~Further improvment to rounding of numbers~~
  # ~~Further improvement of look and functionality of quote~~
@@ -28,7 +28,7 @@ a strike through denotes that the improvement has been completed
 	* Successful canceling when generating quotes -scrapped till later version
 	* ~~Help and about menu~~
 
-===In ELITE QUOTE 0.5===
+===In ELITE QUOTE 0.5 (Released)===
 
 There was also a 0.5a which fixed some important problem.
 
@@ -41,7 +41,7 @@ There was also a 0.5a which fixed some important problem.
  # The Ability to extensively customize the quote - further delayed
  # Ability to customize company profile - redundant and scrapped
 
-===In ELITE QUOTE 0.6===
+===In ELITE QUOTE 0.6 (Released)===
  # ~~Ability to read from data files to load saved information~~ (Finally Complete)
  # ~~Selecting different CSS files for different quote styles~~
  # ~~Changing heading of quote and other settings through options window~~
@@ -53,7 +53,19 @@ There was also a 0.5a which fixed some important problem.
  # Cancel handling added. Clicking cancel wont mess up the program
  # Number of items can be customized, added and removed.
 
-===in ELITE QUOTE 0.7===
+===In ELITE QUOTE 0.7===
 
  # Ability to e-mail quotes straight from the program
  # Ability to create printer friendly quote
+
+===In ELITE QUOTE 0.8===
+
+This version will turn Elite Quote into an apparently OSX Native application since it seems
+my small user base are mostly OSX users. I considered re-writing the application in
+objective-C and Cocoa but I don't think there's any point as I'm far more comfortable with
+and experienced in swing.
+
+# Menu Bar moved to apple menu bar
+# Application name appears correctly under OSX as Elite Quote and not PriceCalculator(The name of the main Class)
+# Icon appears on Dock
+# Program released in a .dmg
