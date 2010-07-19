@@ -18,7 +18,7 @@ a strike through denotes that the improvement has been completed
 
  # ~~Further improvment to rounding of numbers~~
  # ~~Further improvement of look and functionality of quote~~
- # Ability to enter custom company name and have it saved to file and loaded on program   start - scrapped till 0.5 (heavy mission)
+ # ~~Ability to enter custom company name and have it saved to file and loaded on program   start - scrapped till 0.5 (heavy mission)~~
  # Ability to enter custom mark up and VAT - scrapped till saving to file is possible
  # ~~Make Quote button moved to menubar~~
  # ~~Clear button added~~
@@ -35,11 +35,11 @@ There was also a 0.5a which fixed some important problem.
  # ~~Ability to enter custom company name and have it saved to file and loaded on program   start~~
  # ~~Some bug fixes I cant remember now~~
  # ~~Ability to enter custom mark up and VAT (not from file)~~
- # Ability to read from data files to load saved information - further delayed
+ # ~~Ability to read from data files to load saved information - further delayed~~
  # Ability to e-mail quotes straight from the program - further delayed
  # Ability to create printer friendly quote and to print - further delayed
- # The Ability to extensively customize the quote - further delayed
- # Ability to customize company profile - redundant and scrapped
+ # ~~The Ability to extensively customize the quote - further delayed~~
+ # ~~Ability to customize company profile - redundant and scrapped~~
 
 ===In ELITE QUOTE 0.6 (Released)===
  # ~~Ability to read from data files to load saved information~~ (Finally Complete)
