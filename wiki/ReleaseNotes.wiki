@@ -50,15 +50,10 @@ There was also a 0.5a which fixed some important problem.
 
  # ~~Clean up source code and spot problems and errors~~
  # Fix problems and make code more readable and practical
- # Cancel handling added. Clicking cancel wont mess up the program
+ # When creating the quote a JFrame appears with detailed settings
  # Number of items can be customized, added and removed.
 
 ===In ELITE QUOTE 0.7===
-
- # Ability to e-mail quotes straight from the program
- # Ability to create printer friendly quote
-
-===In ELITE QUOTE 0.8===
 
 This version will turn Elite Quote into an apparently OSX Native application since it seems
 my small user base are mostly OSX users. I considered re-writing the application in
@@ -69,3 +64,8 @@ and experienced in swing.
  # Application name appears correctly under OSX as Elite Quote and not PriceCalculator(The name of the main Class)
  # Icon appears on Dock
  # Program released in a .dmg
+
+===In ELITE QUOTE 0.8===
+
+ # Ability to e-mail quotes straight from the program
+ # Ability to create printer friendly quote
