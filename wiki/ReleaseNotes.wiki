@@ -50,8 +50,6 @@ There was also a 0.5a which fixed some important problem.
 
  # ~~Clean up source code and spot problems and errors~~
  # ~~Fix problems and make code more readable and practical~~
- # When creating the quote a JFrame appears with detailed settings
- # Number of items can be customized, added and removed.
  # ~~Options frame needs cosmetic fixes~~
 
 ===In ELITE QUOTE 0.7===
@@ -70,3 +68,4 @@ and experienced in swing.
 
  # Ability to e-mail quotes straight from the program
  # Ability to create printer friendly quote
+ # When creating the quote a JFrame appears with detailed settings
