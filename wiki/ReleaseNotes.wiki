@@ -46,7 +46,7 @@ There was also a 0.5a which fixed some important problem.
  # ~~Selecting different CSS files for different quote styles~~
  # ~~Changing heading of quote and other settings through options window~~
 
-===In ELITE QUOTE 0.6.1===
+===In ELITE QUOTE 0.6.1===(Finished but didnt bother to release)
 
  # ~~Clean up source code and spot problems and errors~~
  # ~~Fix problems and make code more readable and practical~~
@@ -54,7 +54,7 @@ There was also a 0.5a which fixed some important problem.
  # ~~Fixed a problem where clicking cancel on the options frame will not show the text file when re-opening it~~
  # ~~Fixed a major problem where program would have to be restarted before using new settings~~
 
-===In ELITE QUOTE 0.7===
+===In ELITE QUOTE 0.7===(Released)
 
 This version will turn Elite Quote into an apparently OSX Native application since it seems
 my small user base are mostly OSX users. I considered re-writing the application in
