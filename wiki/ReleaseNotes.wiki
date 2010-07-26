@@ -46,7 +46,7 @@ There was also a 0.5a which fixed some important problem.
  # ~~Selecting different CSS files for different quote styles~~
  # ~~Changing heading of quote and other settings through options window~~
 
-===In ELITE QUOTE 0.6.1===(Done/Not Released)
+===In ELITE QUOTE 0.6.1===(Done)
 
  # ~~Clean up source code and spot problems and errors~~
  # ~~Fix problems and make code more readable and practical~~
