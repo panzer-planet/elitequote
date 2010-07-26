@@ -69,5 +69,6 @@ and experienced in swing.
 ===In ELITE QUOTE 0.8===
 
  # Ability to e-mail quotes straight from the program
- # Ability to create printer friendly quote
+ # Ability to create printer friendly quote(CSSless Quote)
  # When creating the quote a JFrame appears with detailed settings
+ # OptionPanes need icons manually specified
