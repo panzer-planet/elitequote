@@ -51,6 +51,8 @@ There was also a 0.5a which fixed some important problem.
  # ~~Clean up source code and spot problems and errors~~
  # ~~Fix problems and make code more readable and practical~~
  # ~~Options frame needs cosmetic fixes~~
+ # ~~Fixed a problem where clicking cancel on the options frame will not show the text file when re-opening it~~
+ # ~~Fixed a major problem where program would have to be restarted before using new settings~~
 
 ===In ELITE QUOTE 0.7===
 
