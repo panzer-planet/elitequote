@@ -73,3 +73,8 @@ and experienced in swing.
  # When creating the quote a JFrame appears with detailed settings
  # OptionPanes need icons manually specified
  # In OSX Keyboard shortcuts don't work when a TextField is selected
+ # In OSX a service error occurs creating performance issues
+{{{
+
+__CFServiceControllerBeginPBSLoadForLocalizations timed out while talking to pbs
+}}}
