@@ -78,3 +78,4 @@ and experienced in swing.
 
 __CFServiceControllerBeginPBSLoadForLocalizations timed out while talking to pbs
 }}}
+# Quotes must be able to be saved to any directory. Saving in pwd results in quotes being saved inside .app package
