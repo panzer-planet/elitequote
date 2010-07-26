@@ -72,3 +72,4 @@ and experienced in swing.
  # Ability to create printer friendly quote(CSSless Quote)
  # When creating the quote a JFrame appears with detailed settings
  # OptionPanes need icons manually specified
+ # In OSX Keyboard shortcuts don't work when a TextField is selected
