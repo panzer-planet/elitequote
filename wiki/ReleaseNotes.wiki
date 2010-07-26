@@ -64,7 +64,8 @@ and experienced in swing.
  # ~~Menu Bar moved to apple menu bar~~
  # ~~Application name appears correctly under OSX as Elite Quote and not PriceCalculator(The name of the main Class)~~
  # ~~Icon appears on Dock~~
- # Program released in a .dmg
+ # ~~Program released in a .dmg~~
+ # ~~JAR Packaged as .app~~
 
 ===In ELITE QUOTE 0.8===
 
